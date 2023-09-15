@@ -1,4 +1,6 @@
-<p>O projeto em questão é um conversor de moedas. Onde constam as seguintes moedas: Real, Dólar Americano, Euro, Libra Esterlina, Bitcoin e Iene.
+<p>O projeto em questão é um conversor de moedas.
+<br>
+Nele constam as seguintes moedas: Real, Dólar Americano, Euro, Libra Esterlina, Bitcoin e Iene.
   <br>
 É um das atividades do curso <b>DevClub</b>. Foram utilizados as ferramentas HTML, CSS e JavaScript.
 <br>
